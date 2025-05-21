@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>NextWave Digital - Digital Marketing Agency</title>
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <header>
+    <div class="container">
+      <h1 class="logo">NextWave Digital</h1>
+      <nav>
+        <ul>
+          <li><a href="#about">About</a></li>
+          <li><a href="#services">Services</a></li>
+          <li><a href="#testimonials">Testimonials</a></li>
+          <li><a href="#contact">Contact</a></li>
+        </ul>
+      </nav>
+    </div>
+  </header>
+
+  <section class="hero">
+    <div class="container">
+      <h2>Grow Your Business with Expert Digital Marketing</h2>
+      <p>We help brands attract, engage, and convert their ideal customers through data-driven marketing.</p>
+      <a href="#contact" class="btn">Get a Free Consultation</a>
+    </div>
+  </section>
+
+  <section id="about" class="about">
+    <div class="container">
+      <h3>About Us</h3>
+      <p>NextWave Digital is a full-service digital marketing agency helping startups and enterprises build their online presence and drive measurable results.</p>
+    </div>
+  </section>
+
+  <section id="services" class="services">
+    <div class="container">
+      <h3>Our Services</h3>
+      <ul>
+        <li><strong>SEO</strong> - Improve visibility & rankings</li>
+        <li><strong>PPC</strong> - Maximize ROI through targeted ads</li>
+        <li><strong>Social Media</strong> - Build a loyal audience</li>
+        <li><strong>Email Marketing</strong> - Nurture leads to customers</li>
+      </ul>
+    </div>
+  </section>
+
+  <section id="testimonials" class="testimonials">
+    <div class="container">
+      <h3>What Our Clients Say</h3>
+      <blockquote>"NextWave helped us triple our leads in just 3 months. Phenomenal team!" – Sarah K., Startup Founder</blockquote>
+    </div>
+  </section>
+
+  <section id="contact" class="contact">
+    <div class="container">
+      <h3>Contact Us</h3>
+      <form>
+        <input type="text" placeholder="Your Name" required />
+        <input type="email" placeholder="Your Email" required />
+        <textarea placeholder="How can we help?" required></textarea>
+        <button type="submit">Send Message</button>
+      </form>
+    </div>
+  </section>
+
+  <footer>
+    <div class="container">
+      <p>&copy; 2025 NextWave Digital. All rights reserved.</p>
+    </div>
+  </footer>
+
+  <script src="script.js"></script>
+</body>
+</html>
